@@ -9,7 +9,7 @@ Overprovisioning SLOG SSDs is useful for different scenarios.
 The most useful benefit of overprovisioning is greatly extending SSD life.
 Overprovisioning an SSD distributes the total number of writes and erases across more flash blocks on the drive. 
 
-Seagate provdes a thoughtful investigation into overprovisioning SSDs: https://www.seagate.com/tech-insights/ssd-over-provisioning-benefits-master-ti/.
+Seagate provides a thoughtful investigation into overprovisioning SSDs: https://www.seagate.com/tech-insights/ssd-over-provisioning-benefits-master-ti/.
 
 {{< hint info >}}
 Some SATA devices are limited to one resize per power cycle.
